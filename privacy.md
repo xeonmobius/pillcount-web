@@ -6,17 +6,17 @@ title: Privacy Policy
 
 **Last updated: June 17, 2026**
 
-> **DRAFT — NOT LEGAL ADVICE.** This is a basic draft. Review with a lawyer and complete the `[bracketed]` items before relying on it. If the App handles personal health information, additional obligations (such as HIPAA in the U.S. or provincial health-privacy law in Canada) likely apply.
+> **Note:** This is a general privacy policy. If the App handles personal health information, additional obligations (such as HIPAA in the U.S. or provincial health-privacy law in Canada) may apply — review with a lawyer.
 
 This Privacy Policy describes how Shannon Chowdhury ("**PillCount**," "**we**," "**us**") handles information in connection with the PillCount mobile app (the "**App**").
 
 ## 1. Information We Collect
 
-- **Images you capture.** The App uses your device camera to capture images of pills/objects for counting. Image processing for counting occurs **on your device**. We do **not** upload, store, or transmit the images you capture for counting unless you separately choose to share them (for example, via the in-app feedback form). `[Confirm on-device-only processing with your implementation; update if any images leave the device.]`
-- **Account / identifier.** The App may assign an anonymous identifier. We do not require you to provide a name, email, or password to use basic features. `[Update if you add accounts.]`
-- **Subscription data.** If you purchase PillCount Pro, billing is handled by **Apple**, and subscription/entitlement management is handled by our service provider **RevenueCat**. We receive limited information needed to verify entitlements (such as an anonymized user identifier and entitlement status), not your full payment details.
+- **Images you capture.** The App uses your device camera to capture images of pills/objects for counting. **All image processing for counting takes place on your device.** We do **not** upload, store, or transmit the images you capture for counting. Images are not retained by the App or by us after the count is complete, unless you separately choose to share content (for example, via the in-app feedback form), in which case what you submit is governed by that form.
+- **Account / identifier.** The App does not require you to create an account or provide a name, email, or password to use its features. The App may use a locally generated, anonymous identifier to manage your session and free-tier usage.
+- **Subscription data.** If you purchase PillCount Pro, billing is handled by **Apple**, and subscription/entitlement management is handled by our service provider **RevenueCat**. We receive only limited information needed to verify entitlements (such as an anonymized user identifier and entitlement status), not your full payment details.
 - **Feedback.** If you contact us via our feedback form (Google Forms), any information you submit is processed by Google and received by us as configured by that form.
-- **Usage / diagnostics.** `[State whether you collect crash/usage analytics. If none, say "We do not collect usage analytics or crash data." If you do, describe them and any SDKs.]`
+- **Usage / diagnostics.** **We do not collect usage analytics, crash data, or telemetry.** The App contains no third-party analytics or advertising SDKs.
 
 ## 2. How We Use Information
 
