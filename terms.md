@@ -2,11 +2,9 @@
 title: Terms of Use
 ---
 
-> **DRAFT — NOT LEGAL ADVICE.** This document is a starting point generated for PillCount and is **not a substitute for review by a qualified lawyer** in your jurisdiction(s). PillCount is medical-adjacent (AI pill counting), so terms, disclaimers, and your liability posture should be reviewed by counsel **before** you rely on them or link them from the app. Fill in every `[bracketed]` placeholder.
-
 # Terms of Use
 
-**Last updated:** June 17, 2026
+**Last updated:** June 21, 2026
 
 These Terms of Use ("**Terms**") govern your access to and use of the PillCount mobile application (the "**App**"), including any related services, features, and in-app purchases provided by Shannon Chowdhury ("**PillCount**," "**we**," "**us**," or "**our**"). By downloading, installing, creating an account, or otherwise using the App, you agree to these Terms. **If you do not agree, do not use the App.**
 
@@ -16,11 +14,15 @@ These Terms of Use ("**Terms**") govern your access to and use of the PillCount 
 
 **1.1 Not a medical device; no medical advice.** The App is a **general-purpose counting and productivity tool**. It is **not** a medical device, a diagnostic tool, or a substitute for professional medical or pharmaceutical advice, diagnosis, treatment, or dispensing. The App does **not** identify medications for the purpose of treatment, does **not** recommend any medication or dose, and **does not create a pharmacist–patient, doctor–patient, or any clinical relationship** between you and PillCount or its operators.
 
-**1.2 AI-generated counts are estimates and may be wrong.** The App uses an automated image-recognition model (machine learning / AI) and a device camera to estimate the number and type of objects (including pills) in an image. **These outputs are estimates and may be inaccurate, incomplete, or entirely incorrect.** The model can miscount, fail to detect items, or misidentify one item as another, including visually similar medications. Lighting, camera angle, image quality, overlapping items, and other conditions can affect accuracy.
+**1.2 AI-generated counts and appearance-level detection are estimates and may be wrong.** The App uses an automated image-recognition model (machine learning / AI) and a device camera to estimate the number of objects (including pills) in an image and to detect **appearance-level differences** (such as color, shape, or size) between detected objects. **These outputs are estimates and may be inaccurate, incomplete, or entirely incorrect.** The model can miscount, fail to detect items, or fail to distinguish between visually similar or visually identical medications. Lighting, camera angle, image quality, overlapping items, and other conditions can affect accuracy.
 
-**1.3 Do not rely on the App for clinical, dispensing, or safety decisions.** You must **independently verify** any count produced by the App before using it for any purpose that could affect health, safety, dosing, dispensing, billing, inventory, compliance, or any medical or legal decision. **Do not use the App as the sole basis** for administering, dispensing, ingesting, withholding, or returning any medication. PillCount disclaims all responsibility for any decision made in reliance on App output.
+**1.3 The App does not identify specific medications.** The App does not, and cannot, identify the specific medication, dose, active ingredient, NDC, manufacturer, or brand of any pill. Two different medications may share the same appearance (color, shape, size) and the App cannot distinguish between them. **Any classification label shown in the App reflects appearance category only, not drug identity.**
 
-**1.4 Your responsibility.** You are solely responsible for how you use the App and for any consequences of relying on its output. If you are a licensed professional, nothing in the App overrides your professional, legal, or regulatory obligations.
+**1.4 Do not rely on the App for clinical, dispensing, or safety decisions.** You must **independently verify** any count produced by the App before using it for any purpose that could affect health, safety, dosing, dispensing, billing, inventory, compliance, or any medical or legal decision. **Do not use the App as the sole basis** for administering, dispensing, ingesting, withholding, or returning any medication. PillCount disclaims all responsibility for any decision made in reliance on App output.
+
+**1.5 Your responsibility.** You are solely responsible for how you use the App and for any consequences of relying on its output. If you are a licensed pharmacist, pharmacy technician, or other regulated professional, nothing in the App overrides your professional, legal, or regulatory obligations, including those imposed by your state or provincial board of pharmacy and applicable pharmacy practice acts.
+
+**1.6 Scope acknowledgment.** During onboarding, you affirmatively acknowledged that the App is an **assistive tool** that detects appearance-level differences between pills and **does not replace pharmacist verification**. That acknowledgment is incorporated into these Terms by reference. If you do not agree with the scope described in this Section 1, you must stop using the App and uninstall it.
 
 ---
 
@@ -136,5 +138,4 @@ These Terms, together with the Privacy Policy and Acceptable Use Policy, constit
 
 Shannon Chowdhury
 Feedback: https://forms.gle/1EJh9rmS326jSkPp6
-Email: [INSERT SUPPORT EMAIL]
-Effective date: June 17, 2026
+Effective date: June 21, 2026
