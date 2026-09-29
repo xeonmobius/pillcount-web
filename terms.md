@@ -98,8 +98,6 @@ The App relies on third-party services, which may include **Apple (App Store, St
 
 ## 12. Dispute Resolution, Arbitration & Class-Action Waiver
 
-_(Governing law and arbitration seat: Ontario, Canada. Confirm with counsel for your situation.)_
-
 **12.1 Informal resolution.** We will try to resolve disputes informally first. Contact us via our feedback form (below) before filing a claim.
 
 **12.2 Arbitration.** Except for matters that may be taken to small-claims court, any dispute or claim arising out of or relating to the App or these Terms will be **resolved by final, binding individual arbitration** administered by the Alternative Dispute Resolution Institute of Ontario (ADRIO) under its then-current rules, in Ontario, Canada, and not in court.

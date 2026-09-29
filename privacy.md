@@ -4,9 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Last updated: June 17, 2026**
-
-> **Note:** This is a general privacy policy. If the App handles personal health information, additional obligations (such as HIPAA in the U.S. or provincial health-privacy law in Canada) may apply — review with a lawyer.
+**Last updated: September 29, 2026**
 
 This Privacy Policy describes how Shannon Chowdhury ("**PillCount**," "**we**," "**us**") handles information in connection with the PillCount mobile app (the "**App**").
 
@@ -57,4 +55,4 @@ We may update this Privacy Policy. We will indicate the "Last updated" date abov
 
 Shannon Chowdhury
 Feedback: https://forms.gle/1EJh9rmS326jSkPp6
-Email: `[INSERT SUPPORT/CONTACT EMAIL]`
+Email: [shannon.chow@live.com](mailto:shannon.chow@live.com)

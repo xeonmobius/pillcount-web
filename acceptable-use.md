@@ -2,8 +2,6 @@
 title: Acceptable Use Policy
 ---
 
-> **DRAFT — NOT LEGAL ADVICE.** Companion to the PillCount Terms of Use. Review with a lawyer before relying on it.
-
 # Acceptable Use Policy
 
 **Last updated:** June 17, 2026
