@@ -8,7 +8,7 @@ title: Support
 
 ## Contact us
 
-- **Email:** [shannon.chow@live.com](mailto:shannon.chow@live.com)
+- **Email:** [pillcount.support@gmail.com](mailto:pillcount.support@gmail.com)
 - **Feedback form:** [Submit feedback or an issue](https://forms.gle/1EJh9rmS326jSkPp6)
 
 We aim to respond within a few business days.

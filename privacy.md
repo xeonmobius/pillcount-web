@@ -55,4 +55,4 @@ We may update this Privacy Policy. We will indicate the "Last updated" date abov
 
 Shannon Chowdhury
 Feedback: https://forms.gle/1EJh9rmS326jSkPp6
-Email: [shannon.chow@live.com](mailto:shannon.chow@live.com)
+Email: [pillcount.support@gmail.com](mailto:pillcount.support@gmail.com)
