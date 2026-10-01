@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Last updated: September 29, 2026**
+**Last updated: October 1, 2026**
 
 This Privacy Policy describes how Shannon Chowdhury ("**PillCount**," "**we**," "**us**") handles information in connection with the PillCount mobile app (the "**App**").
 
@@ -12,7 +12,7 @@ This Privacy Policy describes how Shannon Chowdhury ("**PillCount**," "**we**," 
 
 - **Images you capture.** The App uses your device camera to capture images of pills/objects for counting. **All image processing for counting takes place on your device.** We do **not** upload, store, or transmit the images you capture for counting. Images are not retained by the App or by us after the count is complete, unless you separately choose to share content (for example, via the in-app feedback form), in which case what you submit is governed by that form.
 - **Account / identifier.** The App does not require you to create an account or provide a name, email, or password to use its features. The App may use a locally generated, anonymous identifier to manage your session and free-tier usage.
-- **Subscription data.** If you purchase PillCount Pro, billing is handled by **Apple**, and subscription/entitlement management is handled by our service provider **RevenueCat**. We receive only limited information needed to verify entitlements (such as an anonymized user identifier and entitlement status), not your full payment details.
+- **Subscription data (purchase history).** If you purchase PillCount Pro, billing is handled by **Apple** (App Store) or **Google** (Google Play), and subscription/entitlement management is handled by our service provider **RevenueCat**. To verify your entitlement we receive **purchase history** (such as the subscription's status, product ID, and expiry date) tied to a **device or other identifier** — not your full payment details. This is the only personal data the App links to you, and it exists solely so the App can restore your Pro access.
 - **Feedback.** If you contact us via our feedback form (Google Forms), any information you submit is processed by Google and received by us as configured by that form.
 - **Usage / diagnostics.** **We do not collect usage analytics, crash data, or telemetry.** The App contains no third-party analytics or advertising SDKs.
 
@@ -25,15 +25,17 @@ This Privacy Policy describes how Shannon Chowdhury ("**PillCount**," "**we**," 
 
 ## 3. How We Share Information
 
-We do **not** sell your personal information. We share information only: (a) with our service providers that support the App (**Apple**, **RevenueCat**, **Google** for forms), each under their own terms; (b) to comply with law; or (c) in connection with a sale or transfer of our business (with confidentiality obligations).
+We do **not** sell your personal information. We share information only: (a) with our service providers that support the App (**Apple**, **Google** for billing and forms, and **RevenueCat** for entitlement management), each under their own terms; (b) to comply with law; or (c) in connection with a sale or transfer of our business (with confidentiality obligations).
 
 ## 4. Data Retention
 
 Images captured for counting are processed on-device and not retained by us. We retain subscription/entitlement and feedback data only as long as needed for the purposes described, or as required by law.
 
-## 5. Your Rights
+## 5. Your Rights & Data Deletion
 
 Depending on your jurisdiction (e.g., under Canadian privacy law, GDPR, or U.S. state laws), you may have rights to access, correct, or request deletion of your personal information. To exercise these rights, contact us using the details below.
+
+**Deleting your data:** the App stores counting history only on your device — uninstalling the App removes it. The one piece of data held outside your device is the anonymous entitlement identifier managed by RevenueCat; email [pillcount.support@gmail.com](mailto:pillcount.support@gmail.com) and we will delete it. You can also manage or delete data Google holds about your purchases through your Google Account, and Apple through your Apple ID.
 
 ## 6. Children's Privacy
 
